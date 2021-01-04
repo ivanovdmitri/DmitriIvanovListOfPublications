@@ -1,3 +1,1 @@
-* Publications and Oral Presentations
-** Dmitri Ivanov
-** <dmiivanov@gmail.com>
+# Publications and Oral Presentations, Dmitri Ivanov <dmiivanov@gmail.com>
